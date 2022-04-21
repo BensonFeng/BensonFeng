@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img width="35%" align="right" alt="Github" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" />
 
 I'm a applied mathematics and statistics student who is passionate about writing code, solving problems, and building web applications.
 
