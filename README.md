@@ -1,4 +1,4 @@
-### Hi there 👋
+### Happy learning 👋
 
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
