@@ -8,7 +8,7 @@ I'm a applied mathematics and statistics student who is passionate about writing
 - 📚 Front end web development using HTML, CSS, ReactJS, NextJS.
 - 💽 Back end using  NodeJS, ExpressJS, API routing.
 - 💾 Back end database: MongoDB, Graphql, Firebase.
-- 🧮 Analytic tool: R, MATLAB, Python, Tableau.
+- 🧮 Analytic tool: R, MATLAB, Python, Tableau, PowerBI.
 - 👯 I’m looking for a web development role. 
 - 📫 How to reach me: [Outlook](mailto:bensonfeng@outlook.com)
 
